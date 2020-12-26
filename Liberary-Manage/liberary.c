@@ -155,7 +155,7 @@ void removeitem(int symbol)    //删除图书记录
 	int n = searchitem(symbol, id),i,cho;
 	if (n != 0)
 	{
-		struct Bookitem removeit[10];
+		struct Bookitem removeit[15];
 		FILE *fp;
 		if (symbol == 1)
 			fp = fopen("books.txt", "rb");
@@ -202,7 +202,7 @@ void updateitem(int symbol)     //修改信息，与删除信息相似
 	int n = searchitem(symbol, id),cho,i;
 	if (n != 0)
 	{
-		struct Bookitem removeit[10],tempitem;
+		struct Bookitem removeit[15],tempitem;
 		FILE *fp;
 		if (symbol == 1)
 			fp = fopen("books.txt", "rb");
@@ -267,7 +267,7 @@ int udbrrowed(int symbol,int id,int aord)    //每次借书或还书后更新图书库存
 {
 	int n = searchitem(symbol, id), m = countitem(symbol),i;
 	//struct Bookitem *removeit = malloc(m*sizeof(struct Bookitem));
-	struct Bookitem removeit[10];
+	struct Bookitem removeit[15];
 	FILE *fp;
 	if (symbol == 1)
 		fp = fopen("books.txt", "rb");

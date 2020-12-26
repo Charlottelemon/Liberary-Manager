@@ -1,4 +1,61 @@
 ﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  reader.c
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(48): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(50): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(68): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(76): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(82): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(97): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(99): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(118): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(120): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(138): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(145): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(147): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(153): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(160): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(162): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(180): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(187): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(189): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(196): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(198): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(200): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(202): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(204): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(207): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(214): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(216): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
   main.c
 c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
@@ -176,6 +233,63 @@ c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\borrow.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
 c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\borrow.c(233): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  正在运行 C/C++ 代码分析...
   正在生成代码...
   Liberary-Manage.vcxproj -> C:\Users\dell\Desktop\githubrepositories\Liberary-Manage\Debug\Liberary-Manage.exe
   Liberary-Manage.vcxproj -> C:\Users\dell\Desktop\githubrepositories\Liberary-Manage\Debug\Liberary-Manage.pdb (Partial PDB)
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\borrow.c(91): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\borrow.c(93): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\borrow.c(153): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(52): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(54): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(56): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(58): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(60): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(62): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(64): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(66): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(68): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(154): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(172): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(201): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(220): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(222): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(224): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(226): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(228): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(230): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(232): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(234): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(236): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\liberary.c(239): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(17): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(23): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(27): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(33): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(39): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(45): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(57): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(61): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(67): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(73): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(79): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(91): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(96): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(102): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(126): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(133): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(155): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(159): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(165): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(171): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\main.c(178): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(68): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(138): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(153): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(180): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(196): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(198): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(200): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(202): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(204): warning C6031: 返回值被忽略: “scanf”。
+c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\reader.c(207): warning C6031: 返回值被忽略: “scanf”。

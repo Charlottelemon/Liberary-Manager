@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\</FILEPATH>
+      <FILENAME>reader.c</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>setreader</FUNCTION>
+    <DECORATED>setreader</DECORATED>
+    <FUNCLINE>65</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\</FILEPATH>
+      <FILENAME>reader.c</FILENAME>
+      <LINE>138</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>remreader</FUNCTION>
+    <DECORATED>remreader</DECORATED>
+    <FUNCLINE>134</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\</FILEPATH>
+      <FILENAME>reader.c</FILENAME>
+      <LINE>153</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>remreader</FUNCTION>
+    <DECORATED>remreader</DECORATED>
+    <FUNCLINE>134</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\</FILEPATH>
+      <FILENAME>reader.c</FILENAME>
+      <LINE>180</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>udreader</FUNCTION>
+    <DECORATED>udreader</DECORATED>
+    <FUNCLINE>176</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\</FILEPATH>
+      <FILENAME>reader.c</FILENAME>
+      <LINE>196</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>udreader</FUNCTION>
+    <DECORATED>udreader</DECORATED>
+    <FUNCLINE>176</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\</FILEPATH>
+      <FILENAME>reader.c</FILENAME>
+      <LINE>198</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>udreader</FUNCTION>
+    <DECORATED>udreader</DECORATED>
+    <FUNCLINE>176</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\</FILEPATH>
+      <FILENAME>reader.c</FILENAME>
+      <LINE>200</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>udreader</FUNCTION>
+    <DECORATED>udreader</DECORATED>
+    <FUNCLINE>176</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\</FILEPATH>
+      <FILENAME>reader.c</FILENAME>
+      <LINE>202</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>udreader</FUNCTION>
+    <DECORATED>udreader</DECORATED>
+    <FUNCLINE>176</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\</FILEPATH>
+      <FILENAME>reader.c</FILENAME>
+      <LINE>204</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>udreader</FUNCTION>
+    <DECORATED>udreader</DECORATED>
+    <FUNCLINE>176</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\dell\desktop\githubrepositories\liberary-manage\liberary-manage\</FILEPATH>
+      <FILENAME>reader.c</FILENAME>
+      <LINE>207</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>udreader</FUNCTION>
+    <DECORATED>udreader</DECORATED>
+    <FUNCLINE>176</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

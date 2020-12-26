@@ -29,18 +29,37 @@ int searchreader(int symbol, int id)
 			pos = 0;
 			break;
 		}
-		else if (ifexist.no == id && ifexist.islost == 0)   
+		else if (ifexist.no == id)   
 			break;
-		else if (ifexist.no == id && ifexist.islost == 1)
-		{
-			pos = -1;
-			break;
-		}
 		pos++;
 	}
 	fclose(fp);
 
-	return pos;   //三个状态码：0表示没有此读者、-1表示存在但是已挂失、其他表示存在
+	return pos;   
+}
+
+int research(int symbol, int id)    //检索读者信息，判断借书证是否可用
+{
+	int n = searchreader(symbol, id);
+	if (n != 0)
+	{
+		FILE *fp;
+		if (symbol == 1)
+			fp = fopen("students.txt", "rb");
+		else
+			fp = fopen("teachers.txt", "rb");
+		fseek(fp, (n - 1) * sizeof(struct Readeritem), 0);
+		fread(&reader, sizeof(struct Readeritem), 1, fp);
+		if (reader.islost == 1)
+			n = -1;  //借书证已挂失
+		else
+			n = 1;
+		fclose(fp);
+	}
+	else
+		n = 0;   //不存在此借书证号
+
+	return n;
 }
 
 void setreader(int symbol)

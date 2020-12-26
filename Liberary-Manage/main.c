@@ -100,11 +100,11 @@ int main()
 						{
 							printf("输入读者类别（[1]学生[2]教师）以及借书证号：");
 							scanf("%d%d", &a[2], &a[3]);
-							if (searchreader(a[2], a[3]) > 0)
+							if (research(a[2], a[3]) == 1)
 							{
 								borrowed(a[2], a[0], a[1], a[3]);
 							}
-							else if (searchreader(a[2], a[3]) == 0)
+							else if (research(a[2], a[3]) == 0)
 							{
 								printf("-----不存在这个借书证号-----\n");
 								udbrrowed(a[0], a[1], -1);   //放弃操作，把文件改写回来

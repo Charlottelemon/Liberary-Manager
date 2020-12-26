@@ -152,7 +152,7 @@ int udRecord(int am,int bn,int signal)     //续借或还书
 	printf("输入读者类别（[1]学生[2]教师）以及借书证号：");
 	scanf("%d%d", &a[2], &a[3]);
 	int m = countbow(),j;
-	struct Borrowitem udbow[15];    //不支持用变量初始化数组
+	struct Borrowitem udbow[20];    //不支持用变量初始化数组
 	FILE *fp;
 	fp = fopen("borrowed.txt", "rb");
 	while (1)
@@ -184,7 +184,7 @@ int udRecord(int am,int bn,int signal)     //续借或还书
 	{
 		if (bowitem.retdate == 1)   //判断之前是否续借过
 		{
-			//struct Borrowitem *udbow = malloc(m * sizeof(struct Borrowitem));   
+			//struct Borrowitem *udbow = (struct Borrowitem *)malloc(m * sizeof(struct Borrowitem));   
 			bowitem.retdate++;
 			for (j = 0; j < m; j++)
 			{
